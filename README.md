@@ -38,15 +38,15 @@ Also, put the answers in the "Query Responses" section of this README.
 
 1. Select all fields from users where the city equals Chicago
 
-<!-- SELECT * FROM users WHERE city = 'Chicago' -->
+My Solution: SELECT * FROM users WHERE city = 'Chicago'
 
 2. Select the "state" field for users with a first name of "Glory"
 
-<!-- SELECT state FROM  users WHERE first_name = 'Glory' -->
+My Solution: SELECT state FROM users WHERE first_name = 'Glory'
 
 3. Select all fields from users who's phone1 starts with "773"
 
-<!-- SELECT * FROM  users WHERE phone1 LIKE '773%' -->
+My Solution: SELECT * FROM users WHERE phone1 LIKE '773%'
 
 ## Query Responses
 
